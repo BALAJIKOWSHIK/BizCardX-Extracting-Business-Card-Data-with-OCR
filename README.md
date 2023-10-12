@@ -42,3 +42,5 @@ The extracted information would include the company name, card holder name,
 designation, mobile number, email address, website URL, area, city, state, and pin
 code. The extracted information would then be displayed in the application's
 graphical user interface (GUI).
+
+DEMO VIDEO URL:https://youtu.be/B77iQwEfazU
